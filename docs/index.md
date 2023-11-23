@@ -5,7 +5,7 @@
 
 ## Places
 
-* The [ACO *Cetacean*](cetacean.md), your home ship
+* The [ACO *Cetacean*](aco-cetacean.md), your home ship
 * [Ngoc Linh Station](ngoc-linh.md), your destination; or [HIP 25205](hip25205.md), the system it's built in
 
 ## People

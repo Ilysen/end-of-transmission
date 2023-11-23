@@ -1,12 +1,10 @@
 # ACO *Cetacean*
 
-The *Cetacean* is a long-haul fuel tanker owned and operated by Access Corridor. It's an IPS-N model, constructed to extract, refine, store, and transport liquid fuel across the vastness of Diasporan space.
+The *Cetacean* is a long-haul fuel tanker owned and operated by [Access Corridor](access-corridor.md). It's an IPS-N model, constructed to extract, refine, store, and transport liquid fuel across the vastness of Diasporan space.
 
 As far as construction goes, the *Cetacean* is an older ship, built in 4912u; not so old to be considered antiquated, but old enough that its model is no longer in active production, and instead remains on long-term support. After its decommissioning by IPS-N in 4967u following half a century of service, Access Corridor bought the ship, retrofitted it, and integrated into their burgeoning fleet as their new flagship. Now that Access Corridor has been acquired by IPS-N directly and the corpro's new star player (the *Empyrean*) is four times as large, the *Cetacean* has returned to its roots: performing slow, ponderous routes on the edge of inhabited space, like it did in its childhood years. So it goes.
 
 The *Cetacean* is old, but rugged. Although its core infrastructure has aged substantially and runs inefficiently, it has been kept in serviceable condition across its lifetime and shows no signs of stopping anytime soon. Malfunctions, mechanical quirks, and unexplainable fluctuations in system efficiency are commonplace; but as its two past captains each attest, if you can adjust to the many problems it has, you'd be hard-pressed to find a ship that's more reliable and less unpredictable than the *Cetacean.* Come rain or shine, it'll get where it needs to go, no questions asked -- as long as you're patient with it.
-
-See also: [Access Corridor](Access%20Corridor.md)
 
 ## Crew
 

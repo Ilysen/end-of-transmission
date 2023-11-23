@@ -1,8 +1,6 @@
 # Ngoc Linh Station
 
-Ngoc Linh Station is the southwesternmost blink gate in inhabited space. Located beyond the Hyades cluster and on the edge of inhabited space, the gate is analogous to a rush town -- perched on the perimeter of the 32 Orionis group in the HIP 25205 system, it has maintained a state of perpetual expansion since its initial construction, having enjoyed constant growth since its founding as a jumping-off point for exploration ships and colonial ventures interested in exploiting the region.
-
-See also: [HIP 25205](HIP%2025205.md)
+Ngoc Linh Station is the southwesternmost blink gate in inhabited space. Located beyond the Hyades cluster and on the edge of inhabited space, the gate is analogous to a rush town -- perched on the perimeter of the 32 Orionis group in the [HIP 25205](hip25205.md) system, it has maintained a state of perpetual expansion since its initial construction, having enjoyed constant growth since its founding as a jumping-off point for exploration ships and colonial ventures interested in exploiting the region.
 
 ## Demographics
 Ngoc Linh is a growing population center, and owing to its nature as a blink gate, the extreme majority of its some two hundred thousand residents are immigrants from all across inhabited space, or descended from immigrants; the remainder (around seven percent), colloquially known as the old guard, can trace a lineage to the station's original seed populations.

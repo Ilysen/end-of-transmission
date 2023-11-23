@@ -6,6 +6,6 @@ Unlike its parent company and frequently to its detriment, Access Corridor place
 
 Although ACO maintains a variety of operations, its specialty -- and the niche in which it has met with the most success -- is refining and transporting fuel and passengers to distant worlds and stations that are otherwise costly to incorporate into existing routes. ACO-operated ships trend towards long and meandering trips far off the beaten path, often spending months or years in realtime between stops in slapdash routes that never really end.
 
-Access Corridor has just over two dozen ships in its fleet, with its flagship being the *Empyrean*: a massive twin-tank fuel hauler crewed by around a thousand people, launched in 5014u. Despite being smaller by a factor of four, the [*Cetacean*](Cetacean.md) is the company's third largest vessel.
+Access Corridor has just over two dozen ships in its fleet, with its flagship being the *Empyrean*: a massive twin-tank fuel hauler crewed by around a thousand people, launched in 5014u. Despite being smaller by a factor of four, the [*Cetacean*](aco-cetacean.md) is the company's third largest vessel.
 
 In the modern day, ACO has found itself in a period of rapid growth and expansion, partly due to having received significant investment from IPS-N in recent years.
