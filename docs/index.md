@@ -11,6 +11,7 @@
 ## People
 
 * [Access Corridor](access-corridor.md), your employer
+* [People of interest](people-of-interest.md)
 
 ## Things
 
