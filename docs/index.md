@@ -5,15 +5,14 @@
 
 ## Places
 
-* The [ACO *Cetacean*](aco-cetacean.md), your home ship
-* [Ngoc Linh Station](ngoc-linh.md), your destination; or [HIP 25205](hip25205.md), the system it's built in
+* The [ACO *Cetacean*](prelude/aco-cetacean.md), your home ship
+* [Ngoc Linh Station](prelude/ngoc-linh.md), your destination; or [HIP 25205](prelude/hip25205.md), the system it's built in
 
 ## People
 
-* [Access Corridor](access-corridor.md), your employer
-* [People of interest](people-of-interest.md)
+* [Access Corridor](prelude/access-corridor.md), your employer
 
 ## Things
 
-* [The anomaly you're diving into](the-bubble.md)
-* [A rough timeline of current events](timeline.md)
+* [The anomaly you're diving into](prelude/the-bubble.md)
+* [A rough timeline of current events](prelude/timeline.md)

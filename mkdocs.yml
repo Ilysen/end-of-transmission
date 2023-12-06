@@ -1,2 +1,22 @@
 site_name: END OF TRANSMISSION
 theme: readthedocs
+nav:
+    - 'index.md'
+    - 'prelude/timeline.md'
+    - 'Background':
+        - 'People':
+            - 'prelude/access-corridor.md'
+            - 'ACO Cetacean':
+                - 'prelude/people/jeremiah-quay.md'
+                - 'prelude/people/poppy-moray.md'
+                - 'prelude/people/brilliant-sparks.md'
+        - 'Places':
+            - 'prelude/aco-cetacean.md'
+            - 'prelude/ngoc-linh.md'
+            - 'prelude/hip25205.md'
+        - 'Things':
+            - 'prelude/the-bubble.md'
+    #- 'Act 1':
+    #    - 'People':
+    #        - 'Ngoc Linh Station':
+    #            - 'act-1/people/halric.md'
