@@ -16,7 +16,7 @@ nav:
             - 'prelude/hip25205.md'
         - 'Things':
             - 'prelude/the-bubble.md'
-    #- 'Act 1':
-    #    - 'People':
-    #        - 'Ngoc Linh Station':
-    #            - 'act-1/people/halric.md'
+    - 'Act 1':
+        - 'People':
+            - 'Ngoc Linh Station':
+                - 'act-1/people/halric.md'
