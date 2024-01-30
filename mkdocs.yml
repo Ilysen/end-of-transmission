@@ -21,6 +21,7 @@ nav:
       - 'Ngoc Linh Station':
         - 'act-1/people/halric.md'
         - 'Novelists':
+          - 'act-1/people/novelists/novel.md'
           - 'act-1/people/novelists/andrea.md'
         - 'Concourse Movement':
           - 'act-1/people/concourse/randy.md'

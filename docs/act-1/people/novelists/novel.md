@@ -1,0 +1,13 @@
+# Novel Greenwater (he/him) — Charismatic, Clever, Controlling
+
+Anybody who's been on Ngoc Linh for longer than a few days will be aware of its governor: Novel Greenwater. A man of some seventyish subjective years, Novel is a partisan of the New Humanity Front and a careerist Central Commitee politician who's governed the station for over thirty years -- nearly a third of its life.
+
+Novel has a thin build and stands a little over six feet tall, with ruddy skin and charcoal-black hair that falls to his neck. His olive eyes are often covered by fashion glasses with black plastic frames. In public, he always sports two hairpins above his temples (each an oblong isoceles triangle made from shiny black metal, one pointing up and one pointing down) and typically some kind of formalwear, although he's been known to favor business casual; his choice of dress often sees him stereotyped despite his repeated insistence that he just likes how it looks.
+
+Although Novel has historically enjoyed wide support throughout his tenure as governor due to the station's prosperity under his leadership, his handling of the ongoing crises has seen him widely criticized and rebuked. His opponents specifically highlight his inexperience and overreliance on policing, but Novel's food rationing plan in particular (which focuses on broad consolidation followed by piecemeal distribution) have earned the ire of even the most politically unaware citizens of Ngoc Linh; nobody likes eating printloaf. The governor still seems to broadly enjoy popular support — even though things are very bad, most people wouldn't yet want to resort to replacing him entirely — but it isn't clear how much goodwill he has left to burn through.
+
+*For more information about Novel's political stance and how it affects the station as a whole, see the page on Ngoc Linh Station, subsection Politics.*
+
+## Downtime 1
+
+While the *Cetacean's* humanitarian delegation was settling into Ngoc Linh after lifting the lockdown, they met with Novel at his request in his main office. He praised their work thus far and offered heartfelt thanks, then proceeded to exchange information and discuss the ongoing situation with them: what they thought of things, how they felt his cabinet's approach could be improved, and so on. Before adjourning the meeting, Novel stated that he might call upon them again in the future and that he hoped they could work closely together, but that there was no pressure for them to respond to his queries (and indeed, his first prospective assignment for them went unanswered.)
