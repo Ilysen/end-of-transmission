@@ -1,5 +1,7 @@
 # Home
 
+**[Campaign pitch document (external link; start here!)](https://docs.google.com/document/d/1FMXkwVzVTa-3ZzKcybYYHDh7ZWrK9nqaJDxlQsja__A/edit)**
+
 **>// WELCOME LANCER**<br/>
 **>// PLEASE VIEW THIS DOCUMENTATION AT YOUR LEISURE<br/>**
 **>// LAST UPDATED: JAN 30 5019u // MISSION 2 — CALYPSIS**
