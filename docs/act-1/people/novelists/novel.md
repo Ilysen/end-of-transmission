@@ -6,7 +6,7 @@ Novel has a thin build and stands a little over six feet tall, with ruddy skin a
 
 Although Novel has historically enjoyed wide support throughout his tenure as governor due to the station's prosperity under his leadership, his handling of the ongoing crises has seen him widely criticized and rebuked. His opponents specifically highlight his inexperience and overreliance on policing, but Novel's food rationing plan in particular (which focuses on broad consolidation followed by piecemeal distribution) have earned the ire of even the most politically unaware citizens of Ngoc Linh; nobody likes eating printloaf. The governor still seems to broadly enjoy popular support — even though things are very bad, most people wouldn't yet want to resort to replacing him entirely — but it isn't clear how much goodwill he has left to burn through.
 
-*For more information about Novel's political stance and how it affects the station as a whole, see the page on Ngoc Linh Station, subsection Politics.*
+*For more information about Novel's political stance and how it affects the station as a whole, see the page on [Ngoc Linh Station](prelude/ngoc-linh.md), subsection Politics.*
 
 ## Downtime 1
 
