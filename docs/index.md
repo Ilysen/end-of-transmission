@@ -1,7 +1,8 @@
 # Home
 
 **>// WELCOME LANCER**<br/>
-**>// PLEASE VIEW THIS DOCUMENTATION AT YOUR LEISURE**
+**>// PLEASE VIEW THIS DOCUMENTATION AT YOUR LEISURE<br/>**
+**>// LAST UPDATED: JAN 30 5019u // MISSION 2 — CALYPSIS**
 
 *For a full list of entries, view the table of contents in the left-hand sidebar.*
 
@@ -12,14 +13,24 @@
 
 ## People
 
-* [Access Corridor](prelude/access-corridor.md), your employer
-    * [Captain Jeremiah Quay](prelude/people/jeremiah-quay.md), the captain of the *Cetacean*
-    * [Brilliant Sparks](prelude/people/brilliant-sparks.md), the *Cetacean's* chief engineer
-    * [Poppy Moray](prelude/people/poppy-moray.md), galley cook on the *Cetacean* and resident fly on the wall
-* [Halric](act-1/people/halric.md), a Deimosan NHP rescued from a strange fugue state
+#### [Access Corridor](prelude/access-corridor.md)
+
+* [Captain Jeremiah Quay](prelude/people/jeremiah-quay.md), the captain of the *Cetacean*
+* [Brilliant Sparks](prelude/people/brilliant-sparks.md), the *Cetacean's* chief engineer
+* [Poppy Moray](prelude/people/poppy-moray.md), galley cook on the *Cetacean* and resident fly on the wall
+
+#### Novelists
+
 * [Novel Greenwater](act-1/people/novelists/novel.md), the Union-appointed governor of Ngoc Linh
-    * [Andrea Lomes](act-1/people//novelists/andrea.md), his chief of security
+* [Andrea Lomes](act-1/people//novelists/andrea.md), his chief of security
+
+#### Concourse Movement
+
 * [Randy](act-1/people/concourse/randy.md), a gentle and enigmatic organizer of the Concourse Movement
+
+#### Others
+
+* [Halric](act-1/people/halric.md), a Deimosan NHP rescued from a strange fugue state
 
 ## Things
 
