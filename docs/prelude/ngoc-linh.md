@@ -28,7 +28,7 @@ Like the north end of Ngoc Linh, the south end also has docking areas built up a
 
 ## Politics
 
-Ngoc Linh's governor is [Novel Greenwater](act-1/people/novelists/novel.md) (he/him). As a staunch partisan of the New Humanity Front, Novel's policy decisions are well-known for mirroring his ideology: a results-driven emphasis on growth, a reduction in Union control over the station, reduced official oversight, and a focus on self-sufficiency.
+Ngoc Linh's governor is [Novel Greenwater](../act-1/people/novelists/novel.md) (he/him). As a staunch partisan of the New Humanity Front, Novel's policy decisions are well-known for mirroring his ideology: a results-driven emphasis on growth, a reduction in Union control over the station, reduced official oversight, and a focus on self-sufficiency.
 
 His political philosophy, colloquially known simply as "Novelism", is dominant aboard Ngoc Linh. The movement lacks a centralized message, but most approaches place an emphasis on community cohesion and preservation of individual cultural identities — ideals that often fly in the face of the cult of personality surrounding Novel himself, which casts him as a strong leader that the station needs to function.
 

@@ -13,12 +13,12 @@
 ## People
 
 * [Access Corridor](prelude/access-corridor.md), your employer
-  * [Captain Jeremiah Quay](prelude/people/jeremiah-quay.md), the captain of the *Cetacean*
-  * [Brilliant Sparks](prelude/people/brilliant-sparks.md), the *Cetacean's* chief engineer
-  * [Poppy Moray](prelude/people/poppy-moray.md), galley cook on the *Cetacean* and resident fly on the wall
+    * [Captain Jeremiah Quay](prelude/people/jeremiah-quay.md), the captain of the *Cetacean*
+    * [Brilliant Sparks](prelude/people/brilliant-sparks.md), the *Cetacean's* chief engineer
+    * [Poppy Moray](prelude/people/poppy-moray.md), galley cook on the *Cetacean* and resident fly on the wall
 * [Halric](act-1/people/halric.md), a Deimosan NHP rescued from a strange fugue state
 * [Novel Greenwater](act-1/people/novelists/novel.md), the Union-appointed governor of Ngoc Linh
-  * [Andrea Lomes](act-1/people//novelists/andrea.md), his chief of security
+    * [Andrea Lomes](act-1/people//novelists/andrea.md), his chief of security
 * [Randy](act-1/people/concourse/randy.md), a gentle and enigmatic organizer of the Concourse Movement
 
 ## Things
