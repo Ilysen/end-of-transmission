@@ -1,0 +1,9 @@
+# Irukandji (she/her) - Impulsive, Aggressive, Skilled
+
+One of two agents captured in the aftermath of a foiled conspiracy on Ngoc Linh, with the other being [Halcyon](../../../act-1/people/halcyon). Irukandji is short — only barely reaching five feet tall — and has a lanky appearance. Her skin is pale and pasty, and she sports long and thin light brown hair accentuated by eyes that are a bright enough shade of blue that they could be described as cyan. She is passionate, spontaneous, and has a very foul mouth. She and Halcyon appear to share a very close bond, but both of them have been extremely reticent to share any further details or elaborate as to its nature.
+
+She and her co-conspirator were participating in the plot for profit as mercenaries, and seemingly had been manipulated into believing that they were attempting to *stop* the conspiracy rather than to aid and accelerate it like they were in truth. Their exact involvement is as of yet unclear due, as they haven't been spoken with directly.
+
+In combat, Irukandji piloted a chassis of apparently custom design, with advanced phasing technology and a wrist-mounted plasma blade capable of inflicting tremendous damage to structural weak points. The wreck was recovered after the battle, and remains largely intact. It is currently kept under lock and key aboard the *Cetacean;* formal doctrine would require it to be stored within Ngoc Linh itself, but given the circumstances, Lomes has requested they be held off-station instead.
+
+Irukandji and Halcyon are currently under the equivalent of house arrest on the *Cetacean,* having been allocated to the extended-stay passenger cabins. Captain Quay has issued them visitor keycards and given them free reign of the ship's amenities, so long as they remain supervised when out of their rooms. As of yet, neither of them have shown any inclination towards attempting to break out, and they appear to realize the safety that the ship offers them.

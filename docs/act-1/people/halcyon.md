@@ -1,0 +1,9 @@
+# Halcyon (she/her) - Cautious, Witty, Steadfast
+
+One of two agents captured in the aftermath of a foiled conspiracy on Ngoc Linh, with the other being [Irukandji](../../../act-1/people/irukandji). Halcyon is around a typical Diasporan height, and has brown eyes, very pale skin with an extremely faint greenish hue, and short-cut black hair. She and Irukandji appear to share a very close bond, but both of them have been extremely reticent to share any further details or elaborate as to its nature.
+
+She and her co-conspirator were participating in the plot for profit as mercenaries, and seemingly had been manipulated into believing that they were attempting to *stop* the conspiracy rather than to aid and accelerate it like they were in truth. Their exact involvement is as of yet unclear due, as they haven't been spoken with directly.
+
+In combat, Halcyon piloted a chassis of apparently custom design — loosely based on an IPS-N Nelson and sporting enough rockets to make even the most dedicated Monarch pilot blush, in addition to a magnetic hoverboard that allowed for incredible bursts of speed. The wreck was recovered after the battle, and remains largely intact. It is currently kept under lock and key aboard the *Cetacean;* formal doctrine would require it to be stored within Ngoc Linh itself, but given the circumstances, Lomes has requested they be held off-station instead.
+
+Irukandji and Halcyon are currently under the equivalent of house arrest on the *Cetacean,* having been allocated to the extended-stay passenger cabins. Captain Quay has issued them visitor keycards and given them free reign of the ship's amenities, so long as they remain supervised when out of their rooms. As of yet, neither of them have shown any inclination towards attempting to break out, and they appear to realize the safety that the ship offers them.

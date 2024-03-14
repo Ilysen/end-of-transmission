@@ -9,3 +9,9 @@ Unlike Novel himself, Lomes seems to hold only passing interest in the sociopoli
 ## Mission 1: In Situ
 
 Although it wasn't obvious at the time due to the interference, Lomes is the first person aboard Ngoc Linh who made contact with the *Cetacean,* where she warned them of the lockdown and urged them not to approach.
+
+## Mission 2: Calypsis
+
+When the group put a stop to a plot to conduct a massacre against unarmed civilians in one of Ngoc Linh's train stations, Lomes arrived shortly after the conclusion of the fighting with a security escort. After a brief standoff in which she demanded their identities, she exchanged intel with the group, and reluctantly requested that they track down the source of the signal that had been remotely operating the mechs used in the attack.
+
+Later, once the group had cornered Irukandji and Halcyon, Lomes caught up with the group and ordered a security perimeter established around their idling mechs while she assisted in taking in the two agents. After escaping an assassination attempt, she personally escorted the group back to the *Cetacean.*

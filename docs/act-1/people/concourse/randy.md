@@ -7,3 +7,7 @@ Randy has only been aboard the station for a little over a year, but has become 
 Although many people in the station know Randy on a first-name basis (and indeed, he's become known as "the local cryptid" to many), he aligns most closely with those loosely-tied individuals who self-identify with the Concourse Movement. He's a regular sight at meetups and social events, where he helps with planning and outreach and often covers the cost of catering out of pocket.
 
 While he appears to have very little to hide, Randy has never spoken about his past before coming to the station. His personal life is quiet; he seemingly has zero interest in romance or promiscuity, and while his apartment is by all indications luxurious (a penthouse suite on the top floor of a Concourse tower, offering a stunning view of the blink gate), he spends little time there and seemingly acquired it entirely by unlikely happenstance — a claim that stamped and serialized records back up. These facts taken together have caused an inherent suspicion within the Movement that he still occasionally falls afoul of, but that doesn't seem to upset him.
+
+## Mission 2: Calypsis
+
+Randy did not make a direct appearance while the group from the *Cetacean* investigated the plot against the Concourse Movement, but was among the organizers being targeted and framed by the attack. Their handiness in stopping the attack and exposing the plot meant that the framing failed, and he remained free and safe.

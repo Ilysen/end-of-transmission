@@ -1,4 +1,5 @@
 # Halric (varies) - Reserved, Guilty, Insightful
+
 One of Ngoc Linh Station's traffic controllers is Halric: a quiet Deimosan NHP that has lived aboard Ngoc Linh nearly since its founding, having been assigned to the station in its infancy. Halric is a THOTH/CALC-class NHP, or just a TC for short — a narrow-spectrum platform derived from the base THOTH platform and highly specialized to accept, parse, and make decisions upon vast amounts of data at any given time.
 
 Under normal conditions, Ngoc Linh has a massive team of people that coordinate the operation of the station's blink gate, and Halric's role in that team was to monitor omni and blink signatures to account for tiny corruptions and deviations in incoming and outgoing information; a small task on its surface, but one critical to ensure perfect accuracy of arrivals and departures. Even a single flipped bit could be the difference between two ships arriving together or colliding as they exit the gate.

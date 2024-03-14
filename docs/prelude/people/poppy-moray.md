@@ -11,3 +11,7 @@ Poppy's talents for discreetly gathering information have not gone unnoticed. Al
 Poppy also owns a live goat, which she has creatively named **Goat**. Goat is a genetically-engineered dairy breed and sports a coat of short light chestnut fur, large eyes, and small pokey horns; she is very cautious of strangers, but is friendly and well-trained enough otherwise to be given free reign of the canteen when Poppy is around to supervise. Goat is fed on printed feed and greens from the hydroponics bay, and she produces a hefty amount of milk that has proven a surprising boon — fresh dairy is a rare luxury in Cosmopolitan life, and it's used extensively for cooking and to produce a variety of cheeses.
 
 At the moment, it is entirely unclear how Goat was smuggled aboard the ship. She is not listed on any manifests, and the *Cetacean* has no official clearance to transport livestock in the first place. But her calmness in zero-g and reputation as a mascot figure (not to mention the fresh food) mean that the executive track's members are typically united in their response to corporate queries about the goat: what goat?
+
+## Mission 2: Calypsis
+
+Poppy served as the group's chief coordinator while the group investigated, uncovered, and ultimately stopped a false flag attack on Ngoc Linh. She provided advice and intel, performed cross-checks and reconnaissance from the ship, and remotely rebooted the group's mechs from a "freeze ray" attack just before their would-be kidnappers closed the distance.

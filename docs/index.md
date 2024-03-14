@@ -4,7 +4,7 @@
 
 **>// WELCOME LANCER**<br/>
 **>// PLEASE VIEW THIS DOCUMENTATION AT YOUR LEISURE<br/>**
-**>// LAST UPDATED: JAN 30 5019u // MISSION 2 — CALYPSIS**
+**>// LAST UPDATED: MAR 14 5019u // DOWNTIME 2**
 
 *For a full list of entries, view the table of contents in the left-hand sidebar.*
 
@@ -33,6 +33,7 @@
 #### Others
 
 * [Halric](act-1/people/halric.md), a Deimosan NHP rescued from a strange fugue state
+* [Irukandji](act-1/people/irukandji.md) and [Halcyon](act-1/people/halcyon.md), a pair of agents under lockdown on the *Cetacean* during the ongoing investigation
 
 ## Things
 
