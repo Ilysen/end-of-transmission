@@ -15,3 +15,7 @@ At the moment, it is entirely unclear how Goat was smuggled aboard the ship. She
 ## Mission 2: Calypsis
 
 Poppy served as the group's chief coordinator while the group investigated, uncovered, and ultimately stopped a false flag attack on Ngoc Linh. She provided advice and intel, performed cross-checks and reconnaissance from the ship, and remotely rebooted the group's mechs from a "freeze ray" attack just before their would-be kidnappers closed the distance.
+
+## Current Status
+
+During a headcount after Ngoc Linh's annexation, Poppy was discovered to not be present. An all-hands search of the ship yielded no results, and nor did a sweep of the vessel's camera systems; it is presumed that she was disembarked from the ship at the time of the station's translocation. All attempts to contact her have failed, and as such, Poppy is currently classified as missing. Her current status is unknown.

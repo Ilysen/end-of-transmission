@@ -39,3 +39,27 @@ Novelism's contradictory beliefs are frequently highlighted by its political opp
 Opposition and countercultural movements on Ngoc Linh accuse Novel of using his philosophy as a smokescreen to draw attention away from the actual decisions being made: an increase in security presence, tightening of resource distribution, a lack of community input on major construction plans and policy changes, and so on. All of these things, they argue, paint the lofty ideals of Novelism as nothing more than a front operation for a neo-anthrochauvinist philosophy of power consolidation, not power reduction. Novel himself has a notorious reputation for refusing to acknowledge the term "anthrochauvinist" at all, which only serves to make those claims more credible.
 
 Despite widening cultural schisms and growing calls for change from all across the political spectrum, the governor himself enjoys wide support across Ngoc Linh. He's soft-spoken, charismatic, sheepish, and is very skilled at describing complicated things in digestible ways, all of which have made him a popular figure. All but the most vocal of his opponents are hesitant to call his actions actively malicious (at least not openly), and instead point to his contradictory policies as an indicator of inexperience, incompetence, or cowardice.
+
+## Mission 1: In Situ
+
+TODO
+
+## Mission 2: Calypsis
+
+TODO
+
+## Mission 3: Chekhov's Gun
+
+TODO
+
+## Mission 4b: Twice Shy
+
+Following the party's revelation that Novel himself was responsible for the attacks on the train station, Novel agreed to defer his power to an emergency council comprised of members of the domestic cabinet as well as representatives chosen from the station's citizenry. Almost immediately after his public announcement of the council's formation, power fluctuations began to ripple up and down the HPEC. For the better part of half an hour, they slowly intensified before the blink gate began to spool, moving more and more quickly — far faster than it was ever built to function. A blinkspace tear formed in its center and then expanded outwards beyond its bounds, pulling in loose objects and unsecured ships as it tore free of the gate's frame and decimated it in the process.
+
+In the immediate aftermath, a Legion-aligned invasion force headed by the UNS-CV *Rio Paraná* emerged from the gate and began surrounding the station. Backed by hundreds of corrupted chassis and ships, station security was helpless to effectively fight back against the threat as it took control of the station's maneuvering thrusters and slowly pushed the entire city into the blinkspace tear, causing it to disappear from the system without a trace before the tear closed behind it, leaving a small collection of corrupted fighters that immediately and permanently shut down.
+
+## Current Status
+
+Ngoc Linh is currently under the occupation and control of Legion forces, falling within the Purview of Harrison Armory under the authority of Harrison Legion Gian Point I. Stationside security forces have been relieved of their posts, and replaced by regular patrols of infested frames and subalterns acting to some unknown orders to keep the peace according to a new and Byzantine set of laws and regulations. Those Deimosans that didn't fall under Legion's sway outright during the translocation have slowly begun disappearing, and have gone to ground or hidden themselves away to avoid what is suspected to be a campaign of kidnappings.
+
+However, for a mercy, life otherwise continues largely as it used to. Repairs continue to the extensive structural damage caused during the station's sudden transit through the blink, and Legion appears content to entrust day-to-day operations to the emergency council, although it isn't clear how much power they even hold anymore.

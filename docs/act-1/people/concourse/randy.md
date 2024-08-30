@@ -11,3 +11,11 @@ While he appears to have very little to hide, Randy has never spoken about his p
 ## Mission 2: Calypsis
 
 Randy did not make a direct appearance while the group from the *Cetacean* investigated the plot against the Concourse Movement, but was among the organizers being targeted and framed by the attack. Their handiness in stopping the attack and exposing the plot meant that the framing failed, and he remained free and safe.
+
+## Mission 4b: Twice Shy
+
+When Novel Greenwater was discovered to be behind the attacks and sabotage aboard Ngoc Linh, Andrea Lomes and the team (with input from Quay and, ironically, from Novel himself) collectively decided to elect an interim emergency council of leaders to manage stationside affairs until the crisis was resolved. Randy was chosen as one of the members of this council, protesting vehemently at first before resignedly accepting the mantle.
+
+## Current Status
+
+The emergency council (including Randy) had not yet first convened before the station came under attack and was translocated. Following Legion's takeover of the governmental apparatus, the council themselves was placed beneath the direct command of Legion, and currently serves in part as a mouthpiece for its orders, although they retain a good deal of control over daily affairs.

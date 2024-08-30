@@ -11,3 +11,7 @@ It goes without saying that Brilliant's personality and methods are not popular 
 ## Mission 1: In Situ
 
 During the *Cetacean's* arrival on Ngoc Linh, Sparks provided the team with a code-spike to enter the station through remote override of a landing pad's control systems to force it to lower into the hangar. She also served as the chief coordinator, providing updates and checking in regularly to exchange information.
+
+## Current Status
+
+Sparks remains aboard the *Cetacean* and continues to work closely with Quay. She bumps into the team often at shared meetings and planning sessions, although she hasn't served an active role in assisting them directly since their arrival at Ngoc Linh.

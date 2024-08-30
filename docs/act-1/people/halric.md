@@ -16,6 +16,12 @@ When the group destroyed the corrupted power loader in combat and dragged Halric
 
 ## Downtime 1
 
-Halric was frightened and extremely disoriented after being recovered from their fugue state, but slowly began recovering their faculties after spending time resting. The Bubble's influence seems to have faded for the time being, but the experience has not left him unchanged. Halric currently appears to grapple with feelings of a desire to atone for the harm caused by their previous state conflicting with what appears to be a tremendous guilt for that harm having happened at all. She will eagerly jump at any opportunity to help with low-level tasks without any expectation of thanks or recognition, but rapidly retreats into her shell when approached with broad-reaching tasks or by station administration. Her casket remains housed aboard the *Cetacean* at her request, in the unused casket chamber.
+Halric was frightened and extremely disoriented after being recovered from their fugue state, but slowly began recovering their faculties after spending time resting. The Bubble's influence seems to have faded for the time being, but the experience has not left him unchanged. His casket was moved aboard the *Cetacean* at his request, and stored in an unused chamber.
+
+## Current Status
+
+Halric's casket remains aboard the *Cetacean.* She currently appears to grapple with feelings of a desire to atone for the harm caused by their previous state conflicting with what appears to be a tremendous guilt for that harm having happened at all. She will eagerly jump at any opportunity to help with low-level tasks without any expectation of thanks or recognition, but rapidly retreats into her shell when approached with broad-reaching tasks or by station administration. 
+
+Despite his eagerness to help, Halric showed very little initiative throughout the team's time on Ngoc Linh, and so largely remained quiet except for minor administrative work. Following the station's translocation to blinkspace, Halric was one of the few Deimosans aboard that managed to maintain total control of himself; in the subsequent weeks, she has been housed aboard the *Cetacean* as a fugitive, hidden away from Legion's prying eyes, and has begun to show more independent drive to assist.
 
 Halric typically doesn't manifest a visual appearance, and instead usually just speaks in a toneless, machine-like manner of speech that makes him difficult to get a read on. When he does use a hologram, it typically takes the form of a copy of someone else at the meeting or, rarely, a mass of endlessly-growing tubes that has often been compared to a screensaver.
